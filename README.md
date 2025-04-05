@@ -12,11 +12,12 @@ FOR SCHOOL PURPOSES
 - **Code Readability**: Refactor the codebase to make it more maintainable and easier for other developers to understand.
 - **Performance Optimization**: Optimize the code for better performance and efficiency.
 
-## Installation
-Steps to install and run the project (if applicable).
-
-## Usage
-How to use the project (if applicable).
-
 ## Contributing
 Feel free to fork the project and submit pull requests. For major changes, please open an issue first.
+
+## Team
+- Bisakol (bisayatambakol) tep
+- kuyabogs
+- JM Paresan
+- chrisjames
+- Harry Pota
