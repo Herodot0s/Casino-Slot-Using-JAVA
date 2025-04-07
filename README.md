@@ -6,6 +6,8 @@ FOR SCHOOL PURPOSES
 
 ## Added Updates
 - ✅ Improved UI using ASCII art for a retro and clean look.
+-  Use Shuffle function in java to make it optimized.
+-  Add UI Using java swing
 
 ## To-Do List
 - **UI for JavaFX**: Enhance the user interface with JavaFX for a modern and interactive experience.
